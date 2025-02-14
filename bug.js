@@ -1,0 +1,1 @@
+This error occurs when using the `FlatList` component in React Native and providing it with an incorrect `keyExtractor` function or omitting it entirely.  The `keyExtractor` is crucial for efficient rendering and identifying items within the list.  If the keys aren't unique, the `FlatList` may not update correctly, causing unexpected behavior or visual glitches.
